@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "express": "*",
     "vue": "^2.5.22",
     "vue-router": "^3.0.1",
